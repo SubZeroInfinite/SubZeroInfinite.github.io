@@ -1,1 +1,14 @@
-
+{
+  "name": "n8n-job-applications",
+  "version": "1.0.0",
+  "description": "n8n for job applications",
+  "scripts": {
+    "start": "n8n start"
+  },
+  "dependencies": {
+    "n8n": "^1.76.0"
+  },
+  "engines": {
+    "node": ">=18.10.0"
+  }
+}
